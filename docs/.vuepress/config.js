@@ -59,7 +59,7 @@ module.exports = {
       testnet_ticker: 'tEVMOS',
       rpc_url: 'https://eth.bd.evmos.org:8545',
       rpc_url_testnet: 'https://eth.bd.evmos.dev:8545',
-      rpc_url_local: 'http://localhost:8080/',
+      rpc_url_local: 'http://localhost:80/',
       chain_id: '9001',
       testnet_chain_id: '9000',
       latest_version: 'v6.0.2',
